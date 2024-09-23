@@ -1,3 +1,6 @@
+![github-header-image](https://github.com/user-attachments/assets/30739e6e-397b-4217-a6dd-aa68917af33c)
+
+
 # 💫 About Me:
 🎓 Estudando Front-end.<br>
 
