@@ -4,6 +4,8 @@
 # 💫 About Me:
 🎓 Estudando Front-end.<br>
 
+<img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-dark.svg">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wesley.tenorio1/#) 
