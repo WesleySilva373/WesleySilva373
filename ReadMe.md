@@ -1,5 +1,7 @@
 <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ea%C3%AD+blz%3F+Sou+o+Wesley+Da+Silva.+.+." alt="Typing SVG" /></a> </h1>
 
+<h1 align="center">Bem vindo ao meu Perfil</h1>
+
 ###
 
 <div align="center">
@@ -55,11 +57,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/snake.svg" alt="Snake animation" />
 
 ###
 
