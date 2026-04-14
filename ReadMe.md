@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDMzbjNzOHk4dGozNGgzMXZiajh0dnQzcjExaDNlaDE4YXJteTNrNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aiaWqNYWKrYigXbupB/200.webp"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -33,25 +39,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=WesleySilva373.WesleySilva373&"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
 <div align="left">
 </div>
 
@@ -64,6 +51,20 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=WesleySilva373.WesleySilva373&"  />
 </div>
 
 ###
