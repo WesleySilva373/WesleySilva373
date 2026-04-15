@@ -49,7 +49,7 @@
 ## 🐍 Snake Status
 
 <div align="center">
-  <img src="https://github.com/WesleySilva373/blob/main/snake-dark.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/WesleySilva373/WesleySilva373/output/snake-dark.svg" alt="Snake animation">
 </div>
 
 <div align="left">
