@@ -46,7 +46,11 @@
   <img src="https://streak-stats.demolab.com?user=WesleySilva373&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+## 🐍 Snake Status
+
+<div align="center">
+  <img src="https://github.com/gustavoferiani/gustavoferiani/blob/main/snake-dark.svg" alt="Snake animation">
+</div>
 
 <div align="left">
 </div>
