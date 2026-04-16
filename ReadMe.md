@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Google_Antigravity_Logo.svg" height="40" alt="google antigravity logo" />
+<img src="https://antigravity.google/images/logo.png" height="40" alt="google antigravity logo" />
 </div>
 
 ###
